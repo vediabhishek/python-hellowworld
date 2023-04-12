@@ -1,6 +1,6 @@
 FROM python:3.6
 
-MAINTAINER Sayyed Aaquib "aaquibsayyad@gmail.com"
+
 
 COPY . /app
 
